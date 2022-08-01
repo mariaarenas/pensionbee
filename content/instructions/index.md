@@ -21,7 +21,7 @@ To run this project:
 - to run the server:
 
 ```
-$ clone project
+$ clone repository
 $ cd pensionbee
 $ npm install
 $ node app.js
@@ -45,6 +45,7 @@ $ npm run test
 - Added instructions folder to test the ability to add new folders without breaking the functionality of the program.
 - Testing of different user cases.
 - Added styling (check http://localhost:3000/instructions to see more proper results)
+- To execute the program in codesandbox use this link https://codesandbox.io/s/github/mariaarenas/pensionbee
 
 ## Code Review
 
