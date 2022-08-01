@@ -21,17 +21,18 @@ To run this project:
 - to run the server:
 
 ```
-$ cd acme
+$ clone project
+$ cd pensionbee
 $ npm install
 $ node app.js
 ```
 
-with the server running go to http://localhost:3000/ + url (for instance -/instructions- to see the readme rendered)
+with the server running go to http://localhost:3000/instructions to render the readme.md
 
 - To run the tests:
 
 ```
-$ cd acme
+$ cd pensionbee
 $ npm run test
 ```
 
