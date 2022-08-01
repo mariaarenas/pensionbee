@@ -21,7 +21,7 @@ To run this project:
 - to run the server:
 
 ```
-$ clone project
+$ clone repository
 $ cd pensionbee
 $ npm install
 $ node app.js
